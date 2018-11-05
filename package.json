@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "awesome-lint": "^0.8.0"
+  },
+  "name": "awesome-restify",
+  "version": "1.0.0",
+  "description": "A curated list of awesome Restify resources",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": "https://github.com/rajikaimal/awesome-restify",
+  "author": "rajikaimal <inbox.rajika@gmail.com>",
+  "license": "CCO 1.0",
+  "private": false
+}
